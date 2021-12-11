@@ -1,4 +1,4 @@
-#data = open("...\day_1_input.txt")
+#input = open("...\day_1_input.txt")
 input = [199, 200, 208, 210, 200, 207, 240, 269, 260, 263]
 
 def count_increased(input):
